@@ -1,0 +1,13 @@
+{
+
+  "db": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "meetupsapp",
+    "password": "",
+    "name": "mongoDS",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
